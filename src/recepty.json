@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "nazev": "Klasická česnečka",
+    "kategorie": "Polévky",
+    "ingredience": [
+      "4 velké brambory",
+      "6 stroužků česneku",
+      "1 litr vývaru",
+      "Majoránka"
+    ],
+    "postup": [
+      "Brambory nakrájejte na malé kostičky.",
+      "Vložte je do vývaru a vařte do změknutí.",
+      "Prolisujte česnek a přidejte ho spolu s majoránkou do hrnce.",
+      "Krátce povařte a podávejte s krutony."
+    ]
+  }
+]
